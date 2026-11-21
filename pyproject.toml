@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "carmelolg-gapoly"
-version = "0.3.4"
+version = "0.3.5"
 description = "Evolve polygons, discs, Voronoi points, mosaic tiles, glyphs or brush strokes with a genetic algorithm (GALib) until they look like a target photo."
 readme = "README.md"
 requires-python = ">=3.10"
